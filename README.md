@@ -1,6 +1,6 @@
 # Games CRUD
 
-A brief description of your project and what it does.
+This project is a CRUD application that allows users to create, read, update, and delete games. The application is built using Laravel and utilizes a MySQL database to store game information.
 
 # Getting Started
 
